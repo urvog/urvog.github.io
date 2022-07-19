@@ -43,4 +43,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
