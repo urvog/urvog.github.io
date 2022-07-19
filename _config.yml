@@ -43,4 +43,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 
-remote_theme: jekyll-theme-hacker
+remote_theme: urvog/jekyll-theme-hacker
